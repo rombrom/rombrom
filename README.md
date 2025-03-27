@@ -1,4 +1,4 @@
-# Hi! I'm Rommert but you can call me rom
+# Call me Rom
 
 Proud dad who's been making and breaking the web for 20-odd years.
 
