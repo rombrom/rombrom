@@ -1,5 +1,3 @@
-# Call me Rom
-
 Proud dad who's been making and breaking the web for 20-odd years.
 
 I have a background in interaction design and extensive experience in full stack web development. I get good vibes from intuitive interfaces, simple technology, and crisp design. I'm independent, curious, and always eager to learn. Strong opinions, weakly held. Strong values, strongly held.
