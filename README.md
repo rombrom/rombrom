@@ -1,7 +1,7 @@
 Proud dad who's been making and breaking the web for 20-odd years.
 
-I have a background in interaction design and extensive experience in full stack web development. I get good vibes from intuitive interfaces, simple technology, and crisp design. I'm independent, curious, and always eager to learn. Strong opinions, weakly held. Strong values, strongly held.
+Lead/Staff Developer with 20 years of experience in software engineering, specializing in scalable, maintainable and performant full-stack architectures. Strong foundation in interaction design and crafting delightful web experiences. Proven ability to lead teams, architect complex systems, and drive technical excellence while fostering collaboration across business and engineering teams.
 
-Loves mentoring, technical direction, and shipping scalable, maintainable, and delightful software. Enjoys solving complex problems—but cares more about people than tech. Autonomy, responsibility, and collaboration are keys to growth. Seen it all, from table layouts and frames to blockchain and AI.
+Passionate about intuitive interfaces, simple solutions, and anything web—but cares more about people. Autonomous, curious, and always eager to learn. Strong opinions, weakly held. Strong values, strongly held. Turns coffee into code.
 
-My website is [rombrom.com](https://www.rombrom.com). You can hire me to do web stuff: [noop.digital](https://www.noop.digital)
+My website is [rombrom.com](https://www.rombrom.com). Feel free to view [my CV](https://www.rombrom.com/cv/). You can hire me to do web stuff through [noop.digital](https://www.noop.digital).
